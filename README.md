@@ -14,7 +14,7 @@
 
 ### 연세대학교 RC 창의플랫폼
 `#Python` `#Java` `#Android Studio`
-
+[Github Link](https://github.com/Mer9ury/Yonsei-tak.git)
 - Team 연세탁
 
   * 라즈베리파이와 파이썬 서버를 이용해 세탁기의 잔여 시간 정보를  사용자에게 알려주는 어플리케이션 제작
@@ -27,7 +27,7 @@
 
 ### 서울시 앱 공모전
 `#Java` `#Android Studio`
-
+[Github Link](https://github.com/Mer9ury/Android_UI.git)
 - Team 어사화
 
   * UI 개발 담당
@@ -48,7 +48,7 @@
 
 ### 육군 창업 경진대회
 `#Python` `#NLP` `#Kakao I Developer` `#Flask`
-
+[Github Link](https://github.com/Mer9ury/Help-Law-Me.git)
 - Team Help-Law-Army(헬로아미)
 
   * 질문을 하면 유사 상담 사례를 제공하는 형태의 알바 고민 상담 챗봇
