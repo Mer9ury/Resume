@@ -5,6 +5,9 @@
 * E-mail: bbarroo@yonsei.ac.kr
 * tel: 010-3318-9923
 * Yonsei Univ. Computer Science. Junior
+* 연세대학교 창업팀 2기 (2018.02 ~ 2018.08)
+* 연세대학교 RC 창의플랫폼 멘토단 1기 (2018.03 ~ 2019.01)
+ * 1기 멘토단장
 
 ## Project
 
