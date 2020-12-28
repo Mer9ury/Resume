@@ -14,6 +14,7 @@
 
 ### 연세대학교 RC 창의플랫폼
 `#Python` `#Java` `#Android Studio`
+
 [Github Link](https://github.com/Mer9ury/Yonsei-tak.git)
 - Team 연세탁
 
@@ -27,6 +28,7 @@
 
 ### 서울시 앱 공모전
 `#Java` `#Android Studio`
+
 [Github Link](https://github.com/Mer9ury/Android_UI.git)
 - Team 어사화
 
@@ -48,6 +50,7 @@
 
 ### 육군 창업 경진대회
 `#Python` `#NLP` `#Kakao I Developer` `#Flask`
+
 [Github Link](https://github.com/Mer9ury/Help-Law-Me.git)
 - Team Help-Law-Army(헬로아미)
 
