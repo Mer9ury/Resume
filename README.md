@@ -26,16 +26,6 @@
 
 ##
 
-### 서울시 앱 공모전
-`#Java` `#Android Studio`
-
-[Github Link](https://github.com/Mer9ury/Android_UI.git)
-- Team 어사화
-
-  * UI 개발 담당
-  
-##
-
 ### 삼성 투모로우 솔루션
 
 - Team AlFine
